@@ -1,0 +1,16 @@
+* commit eb36d9c505955d3f98fbc419cd68c58e48629b73 (HEAD -> master, GonzaloCESUR/master, Rama_Ejercicio2)
+| Author: GonzaloCESUR <gonzalo.ma44731@cesurformacion.com>
+| Date:   Fri May 7 10:11:15 2021 +0200
+| 
+|     Subo el ejercicio2
+| 
+* commit aa6423c867b473d1ec51c3eef07ee22756584d54
+  Author: GonzaloCESUR <gonzalo.ma44731@cesurformacion.com>
+  Date:   Fri May 7 10:09:23 2021 +0200
+  
+      Subo el menu desplegable
+eb36d9c HEAD@{0}: merge Rama_Ejercicio2: Fast-forward
+aa6423c HEAD@{1}: checkout: moving from Rama_Ejercicio2 to master
+eb36d9c HEAD@{2}: commit: Subo el ejercicio2
+aa6423c HEAD@{3}: checkout: moving from master to Rama_Ejercicio2
+aa6423c HEAD@{4}: commit (initial): Subo el menu desplegable
