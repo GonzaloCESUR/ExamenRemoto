@@ -1,0 +1,4 @@
+Creamos un menu desplegable con case, depende del valor que le demos este ejecutara una accion
+diferente. Si le damos un valor que no es ninguno de los que se presenta este reiniciara
+el script para que volvamos a reincertar un valor que funcione.
+dededede
