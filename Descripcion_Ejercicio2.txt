@@ -1,0 +1,3 @@
+Se introduce un valor para la itineracion, depende del valor se va a ejecutar tantas veces dado
+el valor introducido el comando que le escribamos. Al finalizar pone Fin del ejercicio.
+dedede
